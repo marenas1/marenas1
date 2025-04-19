@@ -1,8 +1,7 @@
-# Portfolio
-Created by: **Matthew Arenas**
-
-Using:**React and Tailwind**
-
-**Portfolio** containing detailed descriptions of my projects as well as visual elements for each such as pictures and videos. Contains resume and contact info as well.
-
-![Screenshot of site](https://github.com/marenas1/React-Portfolio/blob/main/src/assets/React%20Portfolio.png)
+# Hi! I'm Matthew A Junior SWE
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=marenas1&theme=bear&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marenas1&theme=bear&show_icons=true&layout=compact&langs_count=8&card_width=320" />
+</a>
