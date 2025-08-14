@@ -1,4 +1,4 @@
-# Hi, I'm marenas1 👋
+# Hi, I'm Matthew Arenas 👋
 
 🚀 **Software Engineer @ Thundergraph**  
 🌐 Building the future with TypeScript, React, Next.js & Python  
