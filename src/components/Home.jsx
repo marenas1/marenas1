@@ -27,7 +27,7 @@ function Home() {
             I also had the privilege of participating in the Project Basta Google Software Engineering Program (G-SWEP),
             where I developed critical problem-solving and technical interview skills. These experiences, along with my current work at ThunderGraph and fellowship with CUNY Tech Prep, have strengthened my passion for coding and my drive to deliver impactful software solutions.
           </p>
-          {/* Skills Section */}}
+          {/* Skills Section */}
           <h3 className="text-xl font-semibold mt-8">Skills</h3>
           <ul className="list-disc list-inside mt-4 text-left">
             <li><strong>Programming Languages:</strong> HTML, CSS, JavaScript, Java, SQL, Python</li>
