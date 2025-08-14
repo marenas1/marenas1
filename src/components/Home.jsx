@@ -6,7 +6,7 @@ function Home() {
         <div className="w-full md:w-1/3 flex justify-center mb-8 md:mb-0">
           <div className="relative w-64 h-64 rounded-full overflow-hidden border-4 border-gray-300">
             <img
-              src="src/assets/Headshot.jpg"
+              src="src/assets/HeadShot.png"
               alt="Your Profile"
               className="w-full h-full object-cover"
             />
@@ -17,26 +17,17 @@ function Home() {
         <div className="w-full md:w-2/3 text-center md:text-left">
           <h2 className="text-2xl font-bold mb-6">About Me</h2>
           <p className="text-gray-700 mb-6">
-            Hi! My name is Matthew Arenas, a senior at Brooklyn College pursuing a degree in Computer Science
-            with a minor in Data Science. I am passionate about software development, data science, and finding
-            innovative ways to solve real-world problems. In addition to my studies, I am currently a fellow with
-            CUNY Tech Prep, working on impactful web development projects and enhancing my skills in industry tools
-            and practices.
+            Hi! My name is Matthew Arenas, a Software Engineer at ThunderGraph and a Brooklyn College Graduate. I am passionate about software development, data science, and creating
+            innovative solutions to real-world problems. At ThunderGraph, I have worked on enhancing our graph-based data visualization platform, including implementing editable React Flow nodes, relationship deletion, chat history integration, and UI improvements for onboarding and feed visibility. I also integrated API endpoints with GraphQL to dynamically display AI-generated models to users.
           </p>
           <p className="text-gray-700 mb-6">
-            Throughout my academic journey, I have gained expertise in various programming languages like Java, 
-            Python, JavaScript, and SQL, and have worked with technologies such as React, Node.js, and PostgreSQL.
-            My goal is to build scalable, efficient applications while continuously learning and contributing to the
-            tech community.
+            My technical expertise spans programming languages such as Java, Python, JavaScript, and SQL, and I have hands-on experience with frameworks and tools like React, Node.js, PostgreSQL, and GraphQL. I enjoy building scalable, efficient applications and leveraging data-driven insights to improve user experiences.
           </p>
-
           <p className="text-gray-700 mb-6">
             I also had the privilege of participating in the Project Basta Google Software Engineering Program (G-SWEP),
-            where I developed critical problem-solving and technical interview skills. These experiences have shaped my
-            passion for coding and driven me to pursue opportunities that allow me to create innovative solutions in tech.
+            where I developed critical problem-solving and technical interview skills. These experiences, along with my current work at ThunderGraph and fellowship with CUNY Tech Prep, have strengthened my passion for coding and my drive to deliver impactful software solutions.
           </p>
-
-          {/* Skills Section */}
+          {/* Skills Section */}}
           <h3 className="text-xl font-semibold mt-8">Skills</h3>
           <ul className="list-disc list-inside mt-4 text-left">
             <li><strong>Programming Languages:</strong> HTML, CSS, JavaScript, Java, SQL, Python</li>
